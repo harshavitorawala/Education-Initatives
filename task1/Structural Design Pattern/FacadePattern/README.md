@@ -19,7 +19,7 @@ By using the Facade Pattern, the system ensures that the user only interacts wit
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd FacadePattern
+   cd ../FacadePattern
    cd src
    javac *.java
    java Main
