@@ -13,7 +13,7 @@ This project implements the State Design Pattern to manage the state of medicine
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd StatePattern
+   cd ../StatePattern
    cd src
    javac *.java
    java Main
