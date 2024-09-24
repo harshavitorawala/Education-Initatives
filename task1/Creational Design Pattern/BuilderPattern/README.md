@@ -1,4 +1,4 @@
-# Meal Builder Pattern - Restaurant Application
+# Restaurant Meal Builder Application : Builder Design Pattern
 
 ## Overview
 
