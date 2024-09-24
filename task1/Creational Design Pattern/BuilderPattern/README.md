@@ -24,7 +24,7 @@ This project demonstrates the **Builder Design Pattern** by allowing users to co
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd BuilderPattern
+   cd ../BuilderPattern
    cd src
    javac *.java
    java Main
