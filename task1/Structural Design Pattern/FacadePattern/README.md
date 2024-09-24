@@ -1,4 +1,4 @@
-# Facade Design Pattern - Jewellery Management System
+# Jewellery Management System - Facade Design Pattern 
 
 ## Overview
 
