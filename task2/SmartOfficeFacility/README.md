@@ -45,6 +45,7 @@ All booking, cancellation, and room status operations are handled as commands. T
 ## Setup Instructions
 
 1. **Clone the repository:**
+2. **Steps to run**
    ```bash
    cd smart-office-facility
    cd src
