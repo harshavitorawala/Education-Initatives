@@ -23,7 +23,7 @@ This project uses the **Decorator Design Pattern** which allows for dynamically 
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd DecoratorPattern
+   cd ../DecoratorPattern
    cd src
    javac *.java
    java Main
