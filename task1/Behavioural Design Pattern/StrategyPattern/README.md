@@ -13,7 +13,7 @@ The Payment Strategy Pattern project is a Java-based application that demonstrat
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd StrategyPattern
+   cd ../StrategyPattern
    cd src
    javac *.java
    java Main
