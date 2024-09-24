@@ -47,7 +47,7 @@ All booking, cancellation, and room status operations are handled as commands. T
 1. **Clone the repository:**
 2. **Steps to run**
    ```bash
-   cd smart-office-facility
+   cd SmartOfficeFacility
    cd src
    javac *.java
    java Main
