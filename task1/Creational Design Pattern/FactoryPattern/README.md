@@ -1,9 +1,10 @@
 # Compound Interest Calculator - Factory Method Pattern
 
+## Overview
 This project is a simple **Java application** that calculates compound interest based on different compounding frequencies: **monthly**, **quarterly**, and **yearly**. The implementation utilizes the **Factory Method Design Pattern** to dynamically generate the appropriate class for each type of compound interest calculation.
 
 
-## Overview
+
 This application calculates compound interest based on the input provided by the user for:
 - **Principal amount**
 - **Rate of interest**
