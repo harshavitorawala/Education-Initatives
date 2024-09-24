@@ -1,4 +1,4 @@
-# Text Formatting System using Decorator Design Pattern
+# Text Formatting System - Decorator Design Pattern
 
 ## Overview
 The **Text Formatting System** is a simple implementation of the Decorator design pattern. It allows you to apply different text formatting options such as bold, italic, and underline to plain text dynamically. The pattern provides flexibility for developers to extend the functionality of text objects without modifying their original structure.
