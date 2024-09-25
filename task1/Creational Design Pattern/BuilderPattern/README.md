@@ -17,7 +17,7 @@ This project demonstrates the **Builder Design Pattern** by allowing users to co
 - **MealBuilder**: The interface that defines the steps required to build the meal.
 - **IndianMealBuilder**: Implements `MealBuilder` and prompts the user to customize the meal.
 - **MealDirector**: Coordinates the building of the meal by calling the steps in sequence.
-- **BuilderPatternRestaurantApp**: The main application class that runs the program, interacts with the user, and creates meals.
+- **MainClass**: The main application class that runs the program, interacts with the user, and creates meals.
 
 ## Setup Instructions
 
